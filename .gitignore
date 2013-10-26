@@ -1,0 +1,6 @@
+npm-*.log
+*.tmp
+/node_modules
+/backup
+/recipes
+/recipes_dev
